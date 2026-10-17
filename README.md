@@ -12,7 +12,7 @@
 
 ## 📜 Ficha do personagem
 
-| | |
+| Atributo | Valor |
 |---|---|
 | **Classe** | Aprendiz de Pythonista |
 | **Guilda** | ADS · Análise e Desenvolvimento de Sistemas |
